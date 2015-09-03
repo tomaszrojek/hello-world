@@ -1,4 +1,8 @@
 dsdasdfsdf
 dodano w branchu test
+<<<<<<< HEAD
 dodano w teœcie 2
 dodano w materze
+=======
+dopisek do brancha test
+>>>>>>> 01a4d45ebd7c05b71fa9cf641963ff108405cc3a
